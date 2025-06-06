@@ -55,7 +55,7 @@ Como pode ajudar a pessoa usuária: Cria um ambiente amigável e acolhedor, faci
 
 > [!TIP]
 > Want to better understand this repository, but you don't speak Portuguese? Check out this complete tutorial:
-> [Tutorial - adk_perfil_ia](https://code2tutorial.com/tutorial/9b786148-6909-4706-8c9c-456298693df3/index.md)
+> [Tutorial - adk_melhor_proposta](https://code2tutorial.com/tutorial/dd5c621b-9835-49a0-b06a-d7d053d00b61/index.md)
 >
 > Talk to a generative AI about this project:
 > [Talk to GitHub - adk_perfis_ia](https://talktogithub.com/marioluciofjr/adk_melhor_proposta)
@@ -139,7 +139,7 @@ Para utilizar este código, você precisará de uma chave de API do Google Gemin
     ```
     Depois você pode chamar cada agente com o gatilho `next`. Se tiver dúvidas, assista o tutorial:
 
-    [`TUTORIAL`](https://docs.google.com/videos/d/1q7s01JzJZKa2p871g3J0GVrqz09vzK0xuHU7tPOtMKs/edit?usp=sharing)
+    [`TUTORIAL EM VÍDEO`](https://docs.google.com/videos/d/1q7s01JzJZKa2p871g3J0GVrqz09vzK0xuHU7tPOtMKs/edit?usp=sharing)
 
 ## Links úteis
 
